@@ -1,0 +1,36 @@
+.product-item {
+  list-style-type: none;
+  margin: 8px;
+}
+
+.image {
+  height: 230px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 5px;
+}
+
+.name {
+  font-weight: 500;
+  line-height: 8px;
+}
+
+.weight {
+  font-weight: 500;
+  line-height: 5px;
+  color: #b5b5ac;
+}
+
+.product-item-btn {
+  background-color: green;
+  color: #ffffff;
+  border-radius: 50%;
+  outline: none;
+  border: none;
+  padding: 5px 8px 5px 8px;
+  font-weight: bold;
+  font-size: 16px;
+}
